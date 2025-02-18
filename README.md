@@ -23,6 +23,14 @@ Project creates a ML model using Tensorflow Keras API for sentiment analysis of 
 ![image](https://github.com/user-attachments/assets/242d8faa-dd90-40de-8b55-873dc397e369)
 
 
+### Hndwritten numberic digit recognition
+
+
+Example Output
+
+![image](https://github.com/user-attachments/assets/1564ca27-a301-4a64-8fe7-731219f3a5d6)
+
+
 ### Text Generation
 Project uses Tensorlow Keras API to build a ML model for generating a cooking recepie given brief description of the item to be cooked. The training dataset consists of a variety of cooking recepie and the objective of ML model is to complete a partial recepie using text generation. ML model is a recurrent neural network used to analyze textual or visual data that is sequential
 
