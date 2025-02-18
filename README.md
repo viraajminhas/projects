@@ -25,6 +25,7 @@ Project creates a ML model using Tensorflow Keras API for sentiment analysis of 
 
 ### Hndwritten numberic digit recognition
 
+Project builds a convolutional network for the MNIST set of data to recognize handwritten digits. In addition, it analyzes how the convolutional neural network works different than the densely connected network.
 
 Example Output
 
