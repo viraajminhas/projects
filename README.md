@@ -7,6 +7,7 @@ The project uses rock, paper, scissors labels defined in the labels.txt file to 
 File Keras_modek.h5 contains the ML model definition and parameters
 
 Example output:
+
 1/1 [==============================] - 2s 2s/step
 0 Rock
  vs 
