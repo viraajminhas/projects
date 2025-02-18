@@ -5,6 +5,15 @@
 ### Image Classification using TensorFlow (rockpaperscisors)
 The project uses rock, paper, scissors labels defined in the labels.txt file to classiy the captured picture for image classification using Keras API
 File Keras_modek.h5 contains the ML model definition and parameters
+_Example output:
+1/1 [==============================] - 2s 2s/step
+0 Rock
+ vs 
+1 Paper
+
+Computer wins!
+Class: Rock
+Confidence Score: 0.99723583_
 
 ### Sentiment Analysis
 Project creates a ML model using Tensorflow Keras API for sentiment analysis of the customer reviews of a product and categories it as positive, negative or neutral reviews. The program includes using he input dataset, cleaning the dataset for training and inference. The model run also charts the output for the test data run for human readable output of the result. 
