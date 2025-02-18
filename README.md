@@ -40,6 +40,16 @@ Project uses Tensorlow Keras API to build a ML model for generating a cooking re
 ### Conversational Chatbot
 A recurrent neural network model using TensorFlow and NumPy to generate responses to user-inputted questions. Implemented optimization techniques such as gradient descent, loss function normalization, and transfer learning to enhance model performance. Program uses training data sets for casual conversation. Repository contains additional datasets based on topic or areas of interest such as "Ordinary Life", "School Life", "Finance". Additionally, the data sets also contain emotional sentiment analysis data. Note that the ML model has been trained only on ordinary Life conversations but can be extended for other data sets as well
 
+Example Output:
+
+Chatbot: Hi! How can I help you today?
+You:  Hi
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Chatbot: Hi! :D
+You:  What color is the sky
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Chatbot: It's a blue sky
+
 ### Minesweeper game design using Python
 Minesweeper game utilizing Object-Oriented Programming (OOP) principles and recursion.
 
