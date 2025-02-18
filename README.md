@@ -1,4 +1,5 @@
-# projects
+# Viraaj Minhas
+
 ## Programming and AI/ML Projects
 
 ### Image Classification using TensorFlow (rockpaperscisors)
